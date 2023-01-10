@@ -51,4 +51,8 @@ public class TodoList {
 		}
 		return false;
 	}
+	
+	public int getCount(TodoItem t) {
+		list.indexOf(list);
+	}
 }
